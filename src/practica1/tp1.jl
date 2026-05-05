@@ -1,4 +1,4 @@
-# using LinearAlgebra
+using LinearAlgebra
 
 # Ejercicio 3
 
